@@ -58,5 +58,6 @@ h=freqz(hn,1,w);
 plot(w/pi,abs(h),'blue');
 
 ## OUTPUT:
-
+<img width="736" height="684" alt="image" src="https://github.com/user-attachments/assets/fe65774b-ac92-4d0e-bf10-2a713c15851f" />
 ## RESULT:
+<img width="1280" height="375" alt="image" src="https://github.com/user-attachments/assets/0ef3bc8a-380e-4b60-bb2d-9bcef089d56c" />
